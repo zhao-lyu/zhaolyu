@@ -2,8 +2,8 @@
 # Display name
 title: Zhao Lyu
 
-# Name pronunciation (optional)
-name_pronunciation: Zhao Lyu
+# # Name pronunciation (optional)
+# name_pronunciation: Jao
 
 # Full name (for SEO)
 first_name: Zhao
