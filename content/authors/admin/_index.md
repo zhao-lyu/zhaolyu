@@ -17,7 +17,7 @@ last_name: Lyu
 superuser: true
 
 # Role/position/tagline
-role: PhD student at University of Chicago
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
