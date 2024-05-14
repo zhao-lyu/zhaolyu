@@ -48,7 +48,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2312.17047'
 url_code: 'https://github.com/zhao-lyu/GGM'
 url_dataset: ''
-url_poster: 'https://virtual.aistats.org/media/PosterPDFs/AISTATS%202024/6981.png?t=1714066320.016866'
+url_poster: 'https://virtual.aistats.org/virtual/2024/poster/6981'
 url_project: ''
 url_slides: ''
 url_source: ''
