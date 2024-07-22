@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2312.17047'
+url_pdf: 'https://proceedings.mlr.press/v238/lyu24a.html'
 url_code: 'https://github.com/zhao-lyu/GGM'
 url_dataset: ''
 url_poster: 'https://virtual.aistats.org/virtual/2024/poster/6981'
