@@ -29,7 +29,7 @@ bio: My research interests include graphical models and statistical machine lear
 
 # Interests to show in About widget
 interests:
-  - Model Selection
+  # - Model Selection
   - Graphical Models
   - High-dimensional Statistics
 
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am a third-year PhD student in Computational and Applied Mathematics at University of Chicago. My research interests include model selection, graphical models, high-dimensional statistics and related applications.
+I am a third-year PhD student in Computational and Applied Mathematics at University of Chicago, advised by Bryon Aragam. My research focuses on learning model structure from high-dimensional data and its related applications, such as parameter tuning and model interpretability, with theoretical guarantees.
 {style="text-align: justify;"}
