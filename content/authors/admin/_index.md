@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am a third-year PhD student in Computational and Applied Mathematics at University of Chicago, advised by Professor [Bryon Aragam](http://www.bryonaragam.com). My research focuses on learning model structure from high-dimensional data and its related applications, such as parameter tuning and model interpretability, with theoretical guarantees.
+I am a fourth-year PhD student in Computational and Applied Mathematics at University of Chicago, advised by Professor [Bryon Aragam](http://www.bryonaragam.com). My research focuses on learning structure from high-dimensional data and its related applications, such as parameter tuning, model interpretability and distillation, with theoretical guarantees.
 {style="text-align: justify;"}
